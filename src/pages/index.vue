@@ -98,20 +98,20 @@
 				],
 				newsList: [{
 						name: '91助手1',
-						url: 'http://weixin.com'
+						url: 'https://github.com/chenlin1'
 					},
 					{
 						name: '产品助手1',
-						url: 'http://twitter.com',
+						url: 'https://github.com/chenlin1',
 						hot: true
 					},
 					{
 						name: '智能地图1',
-						url: 'http://maps.com'
+						url: 'https://github.com/chenlin1'
 					},
 					{
 						name: '团队语音1',
-						url: 'http://phone.com'
+						url: 'https://github.com/chenlin1'
 					}
 				],
 				productList: {
@@ -119,20 +119,20 @@
 						title: 'PC产品',
 						list: [{
 								name: '数据统计',
-								url: 'http://starcraft.com'
+								url: 'https://github.com/chenlin1'
 							},
 							{
 								name: '数据预测',
-								url: 'http://warcraft.com'
+								url: 'https://github.com/chenlin1'
 							},
 							{
 								name: '流量分析',
-								url: 'http://overwatch.com',
+								url: 'https://github.com/chenlin1',
 								hot: true
 							},
 							{
 								name: '广告发布',
-								url: 'http://hearstone.com'
+								url: 'https://github.com/chenlin1'
 							}
 						]
 					},
@@ -141,20 +141,20 @@
 						last: true,
 						list: [{
 								name: '91助手',
-								url: 'http://weixin.com'
+								url: 'https://github.com/chenlin1'
 							},
 							{
 								name: '产品助手',
-								url: 'http://twitter.com',
+								url: 'https://github.com/chenlin1',
 								hot: true
 							},
 							{
 								name: '智能地图',
-								url: 'http://maps.com'
+								url: 'https://github.com/chenlin1'
 							},
 							{
 								name: '团队语音',
-								url: 'http://phone.com'
+								url: 'https://github.com/chenlin1'
 							}
 						]
 					}
